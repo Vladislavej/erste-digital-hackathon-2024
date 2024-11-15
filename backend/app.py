@@ -8,11 +8,11 @@ app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
 
 
-DB_HOST = 'hackathon-2024db.ctyyk8aykahg.eu-north-1.rds.amazonaws.com'
-DB_PORT = '5432'
-DB_NAME = 'hackathon2024DB'
-DB_USER = 'pouzivatel'
-DB_PASSWORD = 'Hackathon-2024db'
+DB_HOST = ''
+DB_PORT = ''
+DB_NAME = ''
+DB_USER = ''
+DB_PASSWORD = ''
 
 
 
