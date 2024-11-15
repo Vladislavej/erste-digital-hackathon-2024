@@ -1,8 +1,22 @@
-# EcoBuddy
+# **EcoBuddy**
+
+![EcoBuddy](assets/EcoBuddy.webp)
+
+---
 
 **EcoBuddy** is a platform developed by a team of students from the Technical University of Košice. It brings a revolutionary approach to tracking shopping habits and understanding their environmental impact.
 
+---
+
+![3rd place](assets/Hackatlon.webp)
+
+---
+
 EcoBuddy proudly secured **3rd place** in the **Erste Digital Hackathon**, showcasing its potential to bring meaningful change in recycling and environmental responsibility.
+
+---
+
+![Hackathon](assets/Hackathon_Event_8.webp)
 
 ---
 
@@ -14,6 +28,7 @@ EcoBuddy proudly secured **3rd place** in the **Erste Digital Hackathon**, showc
 ---
 
 ## 👥 **Team**
+
 - **Vlado**: Frontend/Backend, Team Leader, Presenter
 - **Matúš**: Database Management, Presentation Preparation
 - **Jano**: Backend Developer
@@ -22,6 +37,7 @@ EcoBuddy proudly secured **3rd place** in the **Erste Digital Hackathon**, showc
 ---
 
 ## 🌍 **The Problem**
+
 - Millions of plastic bottles end up in landfills or nature annually.
 - Low recycling rates due to lack of motivation.
 - Long-term ecological damage caused by plastic waste.
@@ -35,6 +51,7 @@ EcoBuddy is an application designed to:
 - Show savings and environmental contributions from recycling efforts.
 
 ### Key Features:
+
 - **Purchase and Refund Tracking**: Monitor which bottles are refundable and track their returns.
 - **Savings Visualization**: Display financial and ecological savings with graphs and CO2 reductions.
 - **Recycling Motivation**: Encourage responsible habits through insights and milestones.
@@ -43,6 +60,7 @@ EcoBuddy is an application designed to:
 ---
 
 ## 🌟 **Benefits**
+
 ### For Users:
 - See how much waste was recycled.
 - Track money saved.
